@@ -14,4 +14,4 @@ docker run -p 9000:9000
 docker-compose up -d
 ```
 
-Note: Build has only tested on Mac OS and took ~50-60 seconds.
+Note: Build has only been tested on Mac OS and took ~50-60 seconds.
