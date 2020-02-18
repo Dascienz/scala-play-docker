@@ -1,0 +1,12 @@
+# Excluded files
+*.DS_Store
+README.md
+NOTICE
+LICENSE
+docker-compose.yml
+Dockerfile
+.gitignore
+
+# Excluded folders
+.idea/
+.vscode/
